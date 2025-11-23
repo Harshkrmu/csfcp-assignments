@@ -56,6 +56,3 @@ This is an individual assignment, but the project supports:
 Roll No: 2501730062  
 B.Tech CSE (AI & ML)  
 K.R. Mangalam University
-
-
-### 1. Clone the Repository
